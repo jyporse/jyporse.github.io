@@ -73,10 +73,11 @@ Ordered list(순서가 있는 목록)
 ## 이미지(Images)
 __이미지__ 를 삽일 할 때 사용하며 __두 가지__ 방법이 존재한다.  
 
-1. \![이미지 이름]\(이미지 URL)
+1. \![이미지 이름]\(이미지 URL)  
+
 "이미지 이름"은 이미지의 이름이고 크게 __중요하지 않다__  
 그리고 "이미지 URL"은 이미지의 __실제 링크 주소를 넣어주면 된다.__
-![test_img_avatar](~/Git/Blog/bg.jpeg)
+![test_img_angry_dog](http://image.dongascience.com/Photo/2020/03/5bddba7b6574b95d37b6079c199d7101.jpg)
 
 
 
