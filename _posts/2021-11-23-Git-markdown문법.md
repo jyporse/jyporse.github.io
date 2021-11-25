@@ -5,7 +5,7 @@ date: 2021-11-23 21:24
 last_modified_at: 2021-11-23 21:24
 tags: [Git, Markdown, tutorial]
 categories: [Git]
-toc:  false
+toc:  true
 ---
 
 <h4>Markdown이란 ?</h4>
@@ -14,7 +14,7 @@ toc:  false
 
 <h2> Markdown 문법</h2>
 
-### 문단 제목 '#'
+### 문단 제목 \#
 문단의 제목을 사용할 때 사용하며 총 6단계까지 할 수 있으며, **#** 의 개수가 커질수록 크기가 작아진다.  
 ># 1단계 제목
 >## 2단계 제목
