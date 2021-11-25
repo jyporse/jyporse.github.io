@@ -5,7 +5,7 @@ date: 2021-11-23 21:24
 last_modified_at: 2021-11-23 21:24
 tags: [Git, Markdown, tutorial]
 categories: [Git]
-toc:  true
+toc:  false
 ---
 
 <h4>Markdown이란 ?</h4>
@@ -41,7 +41,9 @@ toc:  true
 5. 밑줄
 원하는 글자 앞에는 \<u> 뒤에는 \</u>를 붙인다.
 > <u>밑줄</u>
-
+6. 형광팬
+원하는 글자 앞에는 \<mark> 뒤에는 \</mark>를 붙인다.
+> <mark>형광팬</mark>  
 
 
 ### 강제 개행
@@ -50,8 +52,8 @@ toc:  true
 두 번째 문장  강제개행
 
 ### 목록(List)
-Unordered list 와 Ordered list로 나뉘어진다.  
-Unordered list  
+Unordered list(순서가 없는 목록) 와 Ordered list(순서가 있는 목록)로 나뉘어진다.  
+Unordered list(순서가 없는 목록)    
 '*'를 사용하며 들여쓰기를 통해 목록안에 목록을 만들 수도 있다.
 >* Item 1
 >* Item 2
@@ -59,7 +61,7 @@ Unordered list
 >    * Itam 2b  
 
 
-Ordered list  
+Ordered list(순서가 있는 목록)    
 '1'을 사용하며 굳이 다음 숫자를 쓰지않고 '1'만을 사용하여도 된다.   들여쓰기를 통해 목록안에 목록을 만들 수도 있다. 
 >1. Item 1
 >1. Item 2
@@ -70,9 +72,10 @@ Ordered list
 
 ### 이미지(Images)
 __이미지__ 를 삽일 할 때 사용하며 __두 가지__ 방법이 존재한다.
-1. > ![이미지 이름](이미지 URL)
+1.  \![이미지 이름](이미지 URL)
 "이미지 이름"은 이미지의 이름이고 크게 __중요하지 않다__  
 그리고 "이미지 URL"은 이미지의 __실제 링크 주소를 넣어주면 된다.__
+![test_img_avatar](~/Git/Blog/screenshort.png)
 
 
 
