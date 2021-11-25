@@ -36,14 +36,16 @@ Unordered list
 * Item 2
     * Item 2a
     * Itam 2b  
-Ordered list
+
+
+Ordered list  
 '1'을 사용하며 굳이 다음 숫자를 쓰지않고 '1'만을 사용하여도 된다.   들여쓰기를 통해 목록안에 목록을 만들 수도 있다. 
 1. Item 1
 1. Item 2
 1. Item 3
     1. Item 3a
     1. Item 3b
-    
+
 
 #### 이미지(Images)
 두 가지 방법이 존재한다.
