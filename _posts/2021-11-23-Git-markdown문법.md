@@ -83,9 +83,9 @@ __이미지__ 를 삽일 할 때 사용하며 __두 가지__ 방법이 존재한
 ## 링크(Link)
 __링크__ 를 삽일 할 때 사용하며 __두 가지__ 방법이 존재한다.
 
-1. 첫 번째 방법으로는 그냥 주소 링크를 입력하는 방법이다. Jun's blog https://jyporse.github.io/  
+1. 첫 번째 방법으로는 그냥 주소 링크를 입력하는 방법이다. __Jun's blog__   https://jyporse.github.io/  
 
-2. 두 번째 방법으로는 \[링크 이름](링크 주소)를 입력하는 방법이다. [Jun's blog](https://jyporse.github.io/)
+2. 두 번째 방법으로는 \[링크 이름](링크 주소)를 입력하는 방법이다. __example__ : [Jun's blog](https://jyporse.github.io/)
 
 
 
