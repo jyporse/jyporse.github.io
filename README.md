@@ -65,7 +65,7 @@ commnet:
 6. 다음을 _layout/post.html에 복사
 
 
-{% if page.comments  %}
+\{% if page.comments  %}
 \<h2>Commnets</h2>
 <div id="disqus_thread"></div>
 <script>
