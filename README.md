@@ -81,8 +81,9 @@ commnet:
     (d.head || d.body).appendChild(s);
     })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>  
 
+7. 댓글 기능 확인
 
 #### 블로그 업로드
 1. _posts 폴더에 새로운 markdown형식 파일 생성 (YYYY-MM-DD-TITLE.md 형태)
