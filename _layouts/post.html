@@ -52,8 +52,8 @@ layout: default
 </aside>
 {% endif %}
 
-{% if page.commnets %}
-<h2>commnets</h2>
+{% if page.comments %}
+<h2>Commnets</h2>
 <div id="disqus_thread"></div>
 <script>
     /**
@@ -61,7 +61,7 @@ layout: default
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
     
     var disqus_config = function () {
-    this.page.url = "{{site.url}{{page.url}}";  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.url = "{{site.url}}{{page.url}}";  // Replace PAGE_URL with your page's canonical URL variable
     this.page.identifier = "{{page.url}}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
     
