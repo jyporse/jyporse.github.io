@@ -87,8 +87,6 @@ commnet:
 #### 블로그 업로드
 1. _posts 폴더에 새로운 markdown형식 파일 생성 (YYYY-MM-DD-TITLE.md 형태)
 2.   
-
----
 layout: post
 title: Git markdown 문법
 date: 2021-11-23 21:24
@@ -96,7 +94,7 @@ last_modified_at: 2021-11-23 21:24
 tags: [Git, Markdown, tutorial]
 categories: [Git]
 toc:  false
---- 
+
 
 * tages,categories에 원하는 키워드 입력
 * toc(page 내 원하는 제목으로 바로가기) 비활성화 (활성화 시 지저분 함)
