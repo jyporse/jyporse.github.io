@@ -69,9 +69,6 @@ commnet:
 \<h2>Commnets</h2>
 <div id="disqus_thread"></div>
 <script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
     let PAGE_URL = "{{site.url}}{{page.url}}"
     let PAGE_IDENTIFIER = "{{page.url}}"
     var disqus_config = function () {
