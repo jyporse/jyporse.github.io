@@ -86,7 +86,7 @@ commnet:
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 {% endif %}
 
-7. 댓글 기능 확인
+7. 댓글 기능 확인 (Git_Markdown문법 등 여러문서에 댓글기능 추가)
 
 ### 5 블로그 업로드
 1. _posts 폴더에 새로운 markdown형식 파일 생성 (YYYY-MM-DD-TITLE.md 형태)
@@ -105,3 +105,6 @@ toc:  false
 
 3. markdown 문법에 맞게 작성 후 업로드
 * git add * → git commit -m "add:문서" → git push origin main으로 확인
+
+### 선택과제 댓글 기능 추가
+* Git markdown 문법등 여러 문서에 댓글 기능을 추가했습니다.
