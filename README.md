@@ -1,5 +1,5 @@
-### 유레카 프로젝트 
-#### 자신의 프로젝트를 Build한 과정을 기술
+## 유레카 프로젝트 
+### 자신의 프로젝트를 Build한 과정을 기술
 
 ### 1.Git hub Repository 생성 및 Remote 연동
 1. jyporse.github.io Repo생성
@@ -10,7 +10,7 @@
 3. branch 이름을 main으로 변경  
 → git branch -M main
 
-#### 2.Personal Access Token(PAT) 생성하기 
+### 2.Personal Access Token(PAT) 생성하기 
 * Git을 push 하기 위해서는 개인용 Token을 생성해야 함
 1. Github → Setting → Developer settings → Personal access tokens  
 
@@ -21,11 +21,11 @@ __토큰을 비밀번호로 사용!__
 
 → git push origin main → 비밀번호로 Token 번호 입력
 
-#### Jekyll 설치 및 시작
+### 3.1 Jekyll 설치 및 시작
 1. [Jekyll 설치 주소](https://jekyllrb-ko.github.io/) 자신의 OS에 맞게 지킬 설치
 2. Jekyll new . --force 로 지킬 시작
 
-#### 원하는 Jekyll 테마 찾기
+### 3.2 원하는 Jekyll 테마 찾기
 1. [원하는 테마](https://github.com/vszhub/not-pure-poole) : Not_pure_poole 
 2. 우측 상단 fork하기 
 3. __master__ branch를 __main__ branch로 바꿔준다. 
@@ -33,7 +33,7 @@ __토큰을 비밀번호로 사용!__
 5. 위 Ropo생성 과정에서 Clone 부분(1-2)부터 다시 한다.
 6. git push origin main으로 잘 되었는지 확인한다.
 
-#### 테마 변경
+### 3.3 테마 변경
 1. archive.yml 파일 수정
   * 블로그를 처음 열었을 때 나오는 메뉴바 수정 
     * 기존에 있던 날짜별 업로드 메뉴를 삭제
@@ -49,7 +49,7 @@ __토큰을 비밀번호로 사용!__
     * 기본 정보를 개인정보로 변경
     * 댓글 기능 추가
 
-#### 댓글 기능 추가
+### 4 댓글 기능 추가
 1. [Disqus](https://disqus.com/) Disqus사이트에서 계정생성
 2. 생성 후 "I want to install Disqus on my site" 클릭
 3. Install Instruction을 읽어본 후 Configure를 눌러 다음을 진행
@@ -91,7 +91,7 @@ commnet:
 
 7. 댓글 기능 확인
 
-#### 블로그 업로드
+### 5 블로그 업로드
 1. _posts 폴더에 새로운 markdown형식 파일 생성 (YYYY-MM-DD-TITLE.md 형태)
 2.   
 layout: post
