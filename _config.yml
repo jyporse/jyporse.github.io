@@ -57,3 +57,8 @@ author:
   name: Jun Yong Park
   url: https://github.com/jyporse/
   email: jyporse@naver.com
+
+commnets:
+  provider:    "disqus"
+  disqus:
+    shortname: "jyporse"
