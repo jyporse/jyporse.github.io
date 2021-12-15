@@ -6,6 +6,7 @@ last_modified_at: 2021-11-23 21:24
 tags: [Git, Markdown, tutorial]
 categories: [Git]
 toc:  false
+comments: true
 ---
 
 <h4>Markdown이란 ?</h4>
