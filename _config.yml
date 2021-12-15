@@ -58,7 +58,7 @@ author:
   url: https://github.com/jyporse/
   email: jyporse@naver.com
 
-comments:
-  provider:     "disqus"
+comment:
+  provider:       "disqus"
   disqus:
-    shortname:  "jyporse"
+    shortname:    "jyporse"
